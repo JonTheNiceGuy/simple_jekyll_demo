@@ -1,0 +1,9 @@
+---
+name: Ex-ample
+target: desktop
+version: 0.0.1
+description: An example app, noting that the file name (example) is not the same as the noted name for the app Ex-ample)
+download:
+  linux: https://example.com
+  mac: https://example.com
+  windows: https://example.com

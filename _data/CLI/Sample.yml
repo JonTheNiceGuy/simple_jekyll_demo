@@ -1,0 +1,9 @@
+---
+name: Sample
+target: desktop
+version: 0.0.1
+description: Some complex example text.
+download:
+  linux: https://example.com
+  playstore: https://example.com
+  dat: https://example.com

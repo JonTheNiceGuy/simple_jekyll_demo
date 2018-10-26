@@ -1,0 +1,8 @@
+---
+name: Demo
+target: desktop
+version: 0.0.1
+description: |
+    Some complex example text in yml format
+download:
+  mac: https://example.com

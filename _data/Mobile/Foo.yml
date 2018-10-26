@@ -1,0 +1,7 @@
+---
+name: Foo-Bar
+target: mobile
+version: 0.0.1
+description: Some complex example text.
+download:
+  android: https://example.com

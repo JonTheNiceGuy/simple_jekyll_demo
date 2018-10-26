@@ -1,0 +1,11 @@
+# Site settings
+title: example.info
+
+# Build settings
+markdown: kramdown
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - Vagrantfile
+  - ubuntu-bionic-18.04-cloudimg-console.log
